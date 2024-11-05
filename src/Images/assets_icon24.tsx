@@ -17,7 +17,7 @@ import cancle24 from "Images/icons/cancel_24px.svg"
 import dropdown24 from "Images/icons/dropdown24px.svg"
 
 
-export {
+export const icons24 ={
         account_c24,book_24,book_m24,book_ma24,home24,
         info24,menu24,menu_o24,search24,green_check24,dropdown24,
         gray_check24,history24,red_cancle24,send24,star24,cancle24
